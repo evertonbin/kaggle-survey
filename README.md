@@ -13,7 +13,7 @@ All the necessary libraries to run the code were already available in Anaconda d
 
 ## Project Motivation<a name="motivation"></a>
 
-For developing this project, I was interestested in using Kaggle data from its 2019 Machine Learning and Data Science Survey to better understand:
+For developing this project, I was interested in using Kaggle data from its 2019 Machine Learning and Data Science Survey to better understand:
 
 1. What is the educational background of those acting in Data Science's fields and which courses do they usually attend?
 2. Which are the main activities that they perform in their companies? Do machine learning tasks play a big role in their daily activities?
@@ -22,7 +22,7 @@ For developing this project, I was interestested in using Kaggle data from its 2
 
 ## File Descriptions <a name="files"></a>
 
-1. Notebook - Jupyter Notebook with the script developed for answering the questions presented above. Along with the script, there are markdown cells contextualizing the adopted steps.
+1. Notebook - Jupyter Notebook (English and Portuguese versions) with the script developed for answering the questions presented above. Along with the script, there are markdown cells contextualizing the adopted steps.
 2. Html file - the html file is a version of the notebook with a functional version of table of contents to facilitate the navigation through the file.
 3. Csv file - a copy of the dataset used in the exploratory analysis. The original one can be found in the Kaggle website through the link in the Licesing section below.
 4. Licensing - MIT License covering this project.
